@@ -1,0 +1,37 @@
+.post_text{
+    /* width: 400px; */
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+
+.love{
+    background-image: linear-gradient(to right bottom, #ab0132, #b91234, #c81f36, #d62b38, #e43639, #ee4a34, #f75c2e, #ff6e27, #ff8a17, #ffa600, #ffc100, #fedc0b);
+    color: #FFF;
+}
+
+.uploader__placeholder{
+    width: 220px;
+    height: 220px;
+    /* border-radius: 60%; */
+    border-radius: 2%;
+}
+
+input{
+    outline: none;
+}
+
+textarea{
+    outline: none;
+}
+
+.createPost{
+    height: 100vh;
+    overflow: hidden;
+    background-color: rgba(50, 70, 80, 0.6);
+    background-blend-mode: soft-light;
+}
+
+.cr_bd{
+    background-color: #FFF;
+}

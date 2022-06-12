@@ -1,0 +1,7 @@
+.inpt{
+    border: 1px solid #cdcdcd;
+}
+
+.inpt:focus{
+    outline: 1px solid #d5f8e7;
+}

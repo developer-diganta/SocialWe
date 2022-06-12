@@ -1,0 +1,55 @@
+.edit_profile .uploader__placeholder{
+    width: 220px;
+    height: 220px;
+    border-radius: 50%;
+}
+
+.uploader__btn_wrapper{
+    position: absolute;
+    z-index: 999;
+    /* background-color: aqua; */
+    top: 0;
+    height: 20px;
+    width: 20px;
+    display: flex;
+    justify-content: start;
+    align-items: center;
+    /* left: 40%; */
+    /* top: 0; */
+    left: 46%;
+    top: 80%;
+    padding-bottom: 20px;
+    color: #FFF;
+}
+
+.uploader__btn{
+    background: #FFF;
+}
+
+.btn_1{
+    background-color: #EDF0EC;
+    padding: 10px 30px;
+    margin: 0px 40px;
+    border-radius: 5px;
+}
+
+.sw{
+    color: #8E939F;
+    cursor: pointer;
+}
+
+.des h2 svg{
+    color: #C6C6C6;
+}
+
+.edit_profile{
+    background: url('../../public/wpWall.jpg');
+    /* height: 100vh; */
+    /* overflow: hidden; */
+    background-color: rgba(50, 70, 80, 0.6);
+    background-blend-mode: soft-light;
+}
+
+.a{
+    box-shadow: 1px 1px 16px 18px rgba(50, 70, 80, 0.2);
+}
